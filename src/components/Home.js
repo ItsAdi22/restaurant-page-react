@@ -4,14 +4,14 @@ import styles from "./Header.css";
 import coffee from './assets/coffee.jpeg'
 import breakfast from './assets/breakfast.jpeg'
 import lunch from './assets/lunch.jpeg'
-import bgimg from './assets/bg.jpeg'
+
 
 
 function Home(){
     return(
     <div className="container">   
 
-<a href="{{url_for('index')}}">
+<a href="/}">
         <div class="store-cover-wrapper">
             <div class="store-cover-background" ></div>
         </div>
