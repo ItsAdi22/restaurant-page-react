@@ -6,7 +6,7 @@ function Header(){
     <div className="container">
         <div className="header">
             <div className="header-inline">
-              <a href="{{url_for('index')}}"><h1>Vintage Machine Cafe</h1></a>
+              <a href="/"><h1>Vintage Machine Cafe</h1></a>
               <p>great coffee, food & relaxing spot.</p>
             </div>
             <div className="header-inline">
