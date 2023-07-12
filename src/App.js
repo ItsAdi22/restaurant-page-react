@@ -1,11 +1,11 @@
-import Navbar from './components/Navbar';
-import Cover from './components/Cover';
+import Header from './components/Header';
+import Home from './components/Home';
 
 function App() {
   return (
     <>
-    <Navbar></Navbar>
-    <Cover></Cover>
+    <Header></Header>
+    <Home></Home>
     </>
   );
 }
